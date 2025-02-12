@@ -16,7 +16,7 @@ print("1. Cordinator")
 print("2. Trainer")
 print("3. Camper")
 print("4. Salir")
-option=input("Seleccione una Opción: ")                 #Se crea una variable para almacenar la opcion que ingrese el usuario
+option=input("Seleccione una Opción:")                 #Se crea una variable para almacenar la opcion que ingrese el usuario
 
 if option == "1":                                       #La condicional if es para dictaminar que decision tomo el usuario. 
     print("Eres el Cordinador")
