@@ -1,0 +1,60 @@
+{
+    "Trainer": [
+        {
+            "id": "1",
+            "Nombre": "Pedro Felipe",
+            "Apellido": "Gomez Bonilla",
+            "Direccion": "Calle 200",
+            "Telefono": "334678985",
+            "Horario disponible": ["1", "2"],
+            "Tema de enseñanza": {
+                "Rutas": ["Ruta NodeJS", "Ruta Java"]
+            }
+        },
+        {
+            "id": "2",
+            "Nombre": "Maria Fernanda",
+            "Apellido": "Lopez Martinez",
+            "Direccion": "Avenida Central 45",
+            "Telefono": "312456789",
+            "Horario disponible": ["3", "4"],
+            "Tema de enseñanza": {
+                "Rutas": ["Ruta java", "Ruta NetCore"]
+            }
+        },
+        {
+            "id": "3",
+            "Nombre": "Juan Carlos",
+            "Apellido": "Ramirez Ortega",
+            "Direccion": "Calle 15 Sur",
+            "Telefono": "300987654",
+            "Horario disponible": ["2", "3"],
+            "Tema de enseñanza": {
+                "Rutas": ["Ruta Java", "Ruta NodeJS"]
+            }
+        },
+        {
+            "id": "4",
+            "Nombre": "Andrea Patricia",
+            "Apellido": "Santos Rivera",
+            "Direccion": "Carrera 10 #20-30",
+            "Telefono": "310123456",
+            "Horario disponible": ["1", "3"],
+            "Tema de enseñanza": {
+                "Rutas": ["Ruta NodeJS", "Ruta java"]
+            }
+        },
+        {
+            "id": "5",
+            "Nombre": "Carlos Eduardo",
+            "Apellido": "Mendoza Vega",
+            "Direccion": "Calle 50 Norte",
+            "Telefono": "315789012",
+            "Horario disponible": ["4", "5"],
+            "Tema de enseñanza": {
+                "Rutas": ["Ruta NodeJS", "Ruta NetCore"]
+            }
+        }
+    ]
+}
+

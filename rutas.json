@@ -1,0 +1,44 @@
+{
+    "Ruta Java": [
+        "Intro",
+        "Python",
+        "HTML/CSS",
+        "Scrum",
+        "Git",
+        "JavaScript",
+        "Intro Back",
+        "Intro BBDD",
+        "MySQL",
+        "Java",
+        "PostgreSQL",
+        "SpringBoot"
+    ],
+    "Ruta NodeJS": [
+        "Intro",
+        "Python",
+        "HTML/CSS",
+        "Scrum",
+        "Git",
+        "JavaScript",
+        "Intro Back",
+        "Intro BBDD",
+        "MongoDB",
+        "JavaScript",
+        "MySQL",
+        "Express"
+    ],
+    "Ruta .NET": [
+        "Intro",
+        "Python",
+        "HTML/CSS",
+        "Scrum",
+        "Git",
+        "JavaScript",
+        "Intro Back",
+        "Intro BBDD",
+        "MySQL",
+        "C#",
+        "PostgreSQL",
+        ".Net Core"
+    ]
+}
