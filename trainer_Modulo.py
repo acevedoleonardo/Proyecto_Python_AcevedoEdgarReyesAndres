@@ -14,6 +14,7 @@ def guardarJSON(dic):
         json.dump(dic, outFile, indent=4)                       # indent=4 para una mejor visualización
     print("Se guardó el archivo exitosamente")
     return True
+<<<<<<< HEAD
 
 
 def Registrar_Trainer():
@@ -21,4 +22,31 @@ def Registrar_Trainer():
 
 
 Registrar_Trainer()
+=======
+#-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Creamos una funcion para implementar el menu
+def login_trainer():
+        print("--------------------------------------------------------------------------------------")
+        print("=== Bienvenido Trainer ===")
+        print("--------------------------------------------------------------------------------------")
+        usuario=input("Ingrese su Usurio: ")
+        contrasena=input("Ingrese su password: ")    
+def menu():
+    print("--------------------------------------------------------------------------------------")
+    print("--------------------------------------------------------------------------")
+    print("\n--- Menú Principal ---")
+    print("1. Mostrar Campers registrados")
+    print("2. Registrar Notas (Trainer)")
+    print("3. Salir")
+    opcion = input("Seleccione una opción: ")
+    if opcion == "1":
+        print("En Mantenimiento...!, Disculpe las molestias causadas") 
+    elif opcion == "2":
+        print("En Mantenimiento...!, Disculpe las molestias causadas")
+    elif opcion == "3":
+        print("Saliendo del programa...")
+        exit()
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------
+>>>>>>> 0e4af4b (Programa funcional)
 

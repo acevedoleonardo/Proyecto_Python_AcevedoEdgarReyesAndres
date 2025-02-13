@@ -1,4 +1,10 @@
 import json
+<<<<<<< HEAD
+=======
+from tkinter import Menu
+from campers_Modulo import *                #Llamada a modulo Campers
+from notas import *                         #Lllamada a modulo de notas
+>>>>>>> 0e4af4b (Programa funcional)
 
 def abrirJSON():
     dicFinal = {}                                               #Se crea un diccionario 
@@ -15,6 +21,7 @@ def guardarJSON(dic):
 
 #Creamos una funcion para implementar el menu
 
+<<<<<<< HEAD
 def login_cordinator(): 
     print("=== Bienvenido Cordinador ===")
     usuario=input("Ingrese su Usurio: ")
@@ -45,3 +52,27 @@ def menu():
 
 menu()
 
+=======
+def login_cordinator():     
+        usuario=input("Ingrese su Usurio: ")
+        contrasena=input("Ingrese su password: ")
+            
+def menu_camper():
+        print("--------------------------------------------------------------------------")
+        print("\n---Menu de Asignacion para Campers---")
+        print("1. Registrar")
+        print("2. Mostrar")
+        print("3. Actualizar")
+        print("4. ELiminar")
+        print("5. Salir")
+        opcion = input("Seleccione una opción: ")
+        if opcion == "1":
+            Registrarcamper()
+        elif opcion == "2":
+            ordenar()
+        elif opcion == "3":
+            print("Saliendo del programa...")
+            exit() 
+
+
+>>>>>>> 0e4af4b (Programa funcional)
