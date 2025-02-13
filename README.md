@@ -1,3 +1,13 @@
+Aca inluyo Link de Google Drive de la presentacion del Video 
+
+https://drive.google.com/file/d/1Arbxr98aHYMTsmymqHc92PsvmLkBo0WR/view?usp=drive_link 
+
+Aca se encuentra el Video de la Presentación
+
+
+
+
+
 # [P:P:1] CampusLands ERP
 
 ---
@@ -116,10 +126,8 @@ De acuerdo a lo establecido y solicitado, se muestra la rúbrica evaluativa a te
 - **5 puntos**: Se creó el repositorio, pero en su rama principal no se encuentra el proyecto general ,al igual que algún archivo en relación al proyecto.
 - **10 puntos**: Se creó exitosamente el repositorio, donde en su rama principal se encuentra el proyecto general y sus archivos en relación a ello, con evidencia de la participación del equipo completo de manera periódica.
 
-## Grupos M2, M3
-
-[5. GitHub y Entrega de Proyecto](https://www.notion.so/5-GitHub-y-Entrega-de-Proyecto-430f21d6c9b5433397b5911ded22f608?pvs=21): También se les calificará el uso del ***conventional commit*** y las fotografías de las evidencias, en caso de contar con ellas.
-
----
 
 # 🎉***¡Éxitos en el desarrollo de este proyecto!***🎉
+
+
+
