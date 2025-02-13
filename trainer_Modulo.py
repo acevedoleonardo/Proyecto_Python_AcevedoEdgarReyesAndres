@@ -14,15 +14,6 @@ def guardarJSON(dic):
         json.dump(dic, outFile, indent=4)                       # indent=4 para una mejor visualización
     print("Se guardó el archivo exitosamente")
     return True
-<<<<<<< HEAD
-
-
-def Registrar_Trainer():
-    print("Registro del Trainer... ")
-
-
-Registrar_Trainer()
-=======
 #-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Creamos una funcion para implementar el menu
@@ -48,5 +39,4 @@ def menu():
         print("Saliendo del programa...")
         exit()
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
->>>>>>> 0e4af4b (Programa funcional)
 

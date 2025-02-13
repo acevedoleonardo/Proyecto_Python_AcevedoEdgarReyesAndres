@@ -8,606 +8,266 @@
             "Acudiente": "Maria Roberta Carabaly Uma\u00f1a",
             "Telefono": "321564446",
             "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
             "Riesgo": "Alto",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta .NET",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 2,
-            "Nombres": "Camila Sofia",
-            "Apellido": "Perez Gutierrez",
-            "Direccion": "Carrera 45 #21-56",
-            "Acudiente": "Jorge Andres Perez",
-            "Telefono": "3129876543",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
+            "Nombres": "Laura Sofia",
+            "Apellido": "Gomez Perez",
+            "Direccion": "Carrera 45 #12-34",
+            "Acudiente": "Carlos Gomez",
+            "Telefono": "3101234567",
+            "Estado": "Inscrito",
             "Riesgo": "Bajo",
-            "Ruta": "Ruta NodeJS"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Java",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 3,
-            "Nombres": "Miguel Angel",
-            "Apellido": "Rodriguez Martinez",
-            "Direccion": "Calle 78 #12-34",
-            "Acudiente": "Luis Fernando Rodriguez",
-            "Telefono": "3106549876",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
+            "Nombres": "Carlos Andres",
+            "Apellido": "Lopez Martinez",
+            "Direccion": "Avenida 30 #45-67",
+            "Acudiente": "Ana Martinez",
+            "Telefono": "3157654321",
+            "Estado": "Inscrito",
             "Riesgo": "Medio",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Node.js",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 4,
-            "Nombres": "Valentina",
-            "Apellido": "Lopez Torres",
-            "Direccion": "Avenida 68 #45-89",
-            "Acudiente": "Claudia Lopez",
-            "Telefono": "3001234567",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
+            "Nombres": "Maria Fernanda",
+            "Apellido": "Rodriguez Diaz",
+            "Direccion": "Calle 80 #23-45",
+            "Acudiente": "Jorge Rodriguez",
+            "Telefono": "3209876543",
+            "Estado": "Inscrito",
             "Riesgo": "Bajo",
-            "Ruta": "Ruta NodeJS"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Python",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 5,
-            "Nombres": "Juan Diego",
-            "Apellido": "Gomez Ramirez",
-            "Direccion": "Calle 56 #32-12",
-            "Acudiente": "Mariana Ramirez",
-            "Telefono": "3159871234",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
+            "Nombres": "Diego Alejandro",
+            "Apellido": "Hernandez Torres",
+            "Direccion": "Carrera 50 #34-56",
+            "Acudiente": "Sandra Torres",
+            "Telefono": "3176543210",
+            "Estado": "Inscrito",
             "Riesgo": "Alto",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta .NET",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 6,
-            "Nombres": "Santiago",
-            "Apellido": "Mejia Vargas",
-            "Direccion": "Carrera 12 #34-56",
-            "Acudiente": "Carlos Mejia",
-            "Telefono": "3225678901",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta NodeJS"
->>>>>>> 0e4af4b (Programa funcional)
+            "Nombres": "Sofia Alejandra",
+            "Apellido": "Garcia Ruiz",
+            "Direccion": "Calle 60 #78-90",
+            "Acudiente": "Luis Garcia",
+            "Telefono": "3198765432",
+            "Estado": "Inscrito",
+            "Riesgo": "Medio",
+            "Ruta": "Ruta Java",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 7,
-            "Nombres": "Laura Daniela",
-            "Apellido": "Torres Garcia",
-            "Direccion": "Calle 90 #21-45",
-            "Acudiente": "Ana Garcia",
-            "Telefono": "3198765432",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
-            "Riesgo": "Medio",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
+            "Nombres": "Jorge Luis",
+            "Apellido": "Morales Castro",
+            "Direccion": "Avenida 40 #56-78",
+            "Acudiente": "Patricia Castro",
+            "Telefono": "3123456789",
+            "Estado": "Inscrito",
+            "Riesgo": "Bajo",
+            "Ruta": "Ruta Node.js",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 8,
-            "Nombres": "Mateo",
-            "Apellido": "Fernandez Morales",
-            "Direccion": "Avenida 45 #78-90",
-            "Acudiente": "Javier Fernandez",
-            "Telefono": "3101239876",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
+            "Nombres": "Valentina Andrea",
+            "Apellido": "Vargas Rojas",
+            "Direccion": "Carrera 70 #89-01",
+            "Acudiente": "Roberto Vargas",
+            "Telefono": "3187654321",
+            "Estado": "Inscrito",
             "Riesgo": "Alto",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Python",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 9,
-            "Nombres": "Isabella",
-            "Apellido": "Martinez Lopez",
-            "Direccion": "Carrera 14 #56-78",
-            "Acudiente": "Paula Lopez",
-            "Telefono": "3113456789",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta NodeJS"
->>>>>>> 0e4af4b (Programa funcional)
+            "Nombres": "Fernando Jose",
+            "Apellido": "Silva Mendoza",
+            "Direccion": "Calle 90 #12-34",
+            "Acudiente": "Carmen Mendoza",
+            "Telefono": "3145678901",
+            "Estado": "Inscrito",
+            "Riesgo": "Medio",
+            "Ruta": "Ruta .NET",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 10,
-            "Nombres": "Samuel",
-            "Apellido": "Ortiz Ramirez",
-            "Direccion": "Calle 32 #12-34",
-            "Acudiente": "Natalia Ortiz",
-            "Telefono": "3009876543",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
-            "Riesgo": "Alto",
-            "Ruta": "Ruta NodeJS"
->>>>>>> 0e4af4b (Programa funcional)
+            "Nombres": "Paula Andrea",
+            "Apellido": "Ortega Guzman",
+            "Direccion": "Carrera 80 #45-67",
+            "Acudiente": "Alberto Ortega",
+            "Telefono": "3134567890",
+            "Estado": "Inscrito",
+            "Riesgo": "Bajo",
+            "Ruta": "Ruta Java",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 11,
-            "Nombres": "Juliana",
-            "Apellido": "Vargas Castillo",
-            "Direccion": "Carrera 23 #45-67",
-            "Acudiente": "Fernanda Vargas",
-            "Telefono": "3106789123",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta NodeJS"
->>>>>>> 0e4af4b (Programa funcional)
+            "Nombres": "Daniel Esteban",
+            "Apellido": "Flores Ramirez",
+            "Direccion": "Avenida 50 #67-89",
+            "Acudiente": "Lucia Ramirez",
+            "Telefono": "3167890123",
+            "Estado": "Inscrito",
+            "Riesgo": "Alto",
+            "Ruta": "Ruta Node.js",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 12,
-            "Nombres": "Luciana",
-            "Apellido": "Perez Moreno",
-            "Direccion": "Avenida 67 #89-12",
-            "Acudiente": "Camilo Perez",
-            "Telefono": "3224567890",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
+            "Nombres": "Camila Alejandra",
+            "Apellido": "Gutierrez Soto",
+            "Direccion": "Calle 70 #34-56",
+            "Acudiente": "Ricardo Soto",
+            "Telefono": "3112345678",
+            "Estado": "Inscrito",
             "Riesgo": "Medio",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Python",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 13,
-            "Nombres": "Diego",
-            "Apellido": "Garcia Torres",
-            "Direccion": "Calle 78 #34-56",
-            "Acudiente": "Sandra Garcia",
-            "Telefono": "3196543210",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
+            "Nombres": "Miguel Angel",
+            "Apellido": "Castro Rios",
+            "Direccion": "Carrera 60 #78-90",
+            "Acudiente": "Sofia Rios",
+            "Telefono": "3178901234",
+            "Estado": "Inscrito",
             "Riesgo": "Bajo",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta .NET",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 14,
-            "Nombres": "Emilia",
-            "Apellido": "Sanchez Lopez",
-            "Direccion": "Carrera 45 #21-34",
-            "Acudiente": "Carlos Sanchez",
-            "Telefono": "3119871234",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
+            "Nombres": "Isabella Maria",
+            "Apellido": "Mendoza Paredes",
+            "Direccion": "Calle 50 #12-34",
+            "Acudiente": "Javier Mendoza",
+            "Telefono": "3190123456",
+            "Estado": "Inscrito",
             "Riesgo": "Alto",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Java",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 15,
-            "Nombres": "Sebastian",
-            "Apellido": "Martinez Garcia",
-            "Direccion": "Avenida 12 #34-56",
-            "Acudiente": "Laura Martinez",
-            "Telefono": "3109876543",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
+            "Nombres": "Gabriel Alejandro",
+            "Apellido": "Rojas Herrera",
+            "Direccion": "Avenida 20 #45-67",
+            "Acudiente": "Monica Herrera",
+            "Telefono": "3123456789",
+            "Estado": "Inscrito",
+            "Riesgo": "Medio",
+            "Ruta": "Ruta Node.js",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 16,
-            "Nombres": "Mariana",
-            "Apellido": "Lopez Ortega",
-            "Direccion": "Calle 67 #23-12",
-            "Acudiente": "Carlos Lopez",
-            "Telefono": "3009873214",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
-            "Riesgo": "Alto",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
+            "Nombres": "Lucia Valentina",
+            "Apellido": "Paredes Castro",
+            "Direccion": "Carrera 30 #56-78",
+            "Acudiente": "Fernando Castro",
+            "Telefono": "3145678901",
+            "Estado": "Inscrito",
+            "Riesgo": "Bajo",
+            "Ruta": "Ruta Python",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 17,
-            "Nombres": "Gabriel",
-            "Apellido": "Torres Fernandez",
-            "Direccion": "Carrera 89 #45-67",
-            "Acudiente": "Ana Fernandez",
-            "Telefono": "3124569870",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
-            "Riesgo": "Medio",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
+            "Nombres": "Juan Pablo",
+            "Apellido": "Guzman Torres",
+            "Direccion": "Calle 40 #78-90",
+            "Acudiente": "Laura Torres",
+            "Telefono": "3189012345",
+            "Estado": "Inscrito",
+            "Riesgo": "Alto",
+            "Ruta": "Ruta .NET",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 18,
-            "Nombres": "Paula Andrea",
-            "Apellido": "Martinez Ruiz",
-            "Direccion": "Avenida 56 #78-34",
-            "Acudiente": "Fernando Ruiz",
-            "Telefono": "3139876543",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
+            "Nombres": "Ana Maria",
+            "Apellido": "Herrera Soto",
+            "Direccion": "Carrera 10 #23-45",
+            "Acudiente": "Carlos Soto",
+            "Telefono": "3134567890",
+            "Estado": "Inscrito",
             "Riesgo": "Medio",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Java",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 19,
-            "Nombres": "Daniel",
-            "Apellido": "Rivera Lopez",
-            "Direccion": "Calle 98 #45-21",
-            "Acudiente": "Jorge Rivera",
-            "Telefono": "3114567890",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
+            "Nombres": "Roberto Carlos",
+            "Apellido": "Ramirez Mendoza",
+            "Direccion": "Avenida 70 #89-01",
+            "Acudiente": "Patricia Mendoza",
+            "Telefono": "3167890123",
+            "Estado": "Inscrito",
             "Riesgo": "Bajo",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Node.js",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
             "id": 20,
-            "Nombres": "Alejandra",
-            "Apellido": "Hernandez Torres",
-            "Direccion": "Avenida 76 #32-45",
-            "Acudiente": "Martha Torres",
-            "Telefono": "3109876541",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
-            "Riesgo": "Alto",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 21,
-            "Nombres": "Cristian",
-            "Apellido": "Morales Vargas",
-            "Direccion": "Carrera 34 #12-56",
-            "Acudiente": "Luis Morales",
-            "Telefono": "3124569873",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 22,
-            "Nombres": "Andrea",
-            "Apellido": "Vega Castillo",
-            "Direccion": "Calle 34 #56-78",
-            "Acudiente": "Felipe Vega",
-            "Telefono": "3229876540",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
-            "Riesgo": "Medio",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 23,
-            "Nombres": "Carlos",
-            "Apellido": "Diaz Ramirez",
-            "Direccion": "Carrera 78 #34-90",
-            "Acudiente": "Ana Ramirez",
-            "Telefono": "3009871234",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 24,
-            "Nombres": "Nicolas",
-            "Apellido": "Garcia Lozano",
-            "Direccion": "Avenida 45 #12-34",
-            "Acudiente": "Laura Lozano",
-            "Telefono": "3129876541",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
-            "Riesgo": "Alto",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 25,
-            "Nombres": "Maria Paula",
-            "Apellido": "Fernandez Ruiz",
-            "Direccion": "Carrera 89 #32-10",
-            "Acudiente": "Javier Ruiz",
-            "Telefono": "3107654321",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
-            "Riesgo": "Medio",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 26,
-            "Nombres": "Daniela",
-            "Apellido": "Lozano Torres",
-            "Direccion": "Calle 23 #45-67",
-            "Acudiente": "Carlos Lozano",
-            "Telefono": "3196543210",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
-            "Riesgo": "Alto",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 27,
-            "Nombres": "Fernando",
-            "Apellido": "Garcia Vega",
-            "Direccion": "Avenida 12 #34-56",
-            "Acudiente": "Ana Vega",
+            "Nombres": "Diana Carolina",
+            "Apellido": "Soto Rios",
+            "Direccion": "Calle 90 #12-34",
+            "Acudiente": "Ricardo Rios",
             "Telefono": "3112345678",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 28,
-            "Nombres": "Carolina",
-            "Apellido": "Sanchez Ruiz",
-            "Direccion": "Carrera 45 #78-90",
-            "Acudiente": "Martha Ruiz",
-            "Telefono": "3123456789",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
-            "Riesgo": "Medio",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 29,
-            "Nombres": "Luis Alberto",
-            "Apellido": "Torres Gutierrez",
-            "Direccion": "Calle 56 #34-12",
-            "Acudiente": "Maria Gutierrez",
-            "Telefono": "3109871234",
-            "Estado": "Aprobado",
-            "Riesgo": "Bajo"
-        },
-        {
-            "id": 30,
-            "Nombres": "Camilo",
-            "Apellido": "Vargas Fernandez",
-            "Direccion": "Avenida 76 #34-45",
-            "Acudiente": "Carlos Fernandez",
-            "Telefono": "3229876543",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
-            "Riesgo": "Medio",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 31,
-            "Nombres": "Esteban",
-            "Apellido": "Rojas Martinez",
-            "Direccion": "Calle 45 #23-78",
-            "Acudiente": "Mariana Martinez",
-            "Telefono": "3009876542",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 32,
-            "Nombres": "Sofia",
-            "Apellido": "Moreno Lopez",
-            "Direccion": "Carrera 56 #12-34",
-            "Acudiente": "Felipe Moreno",
-            "Telefono": "3118765432",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
-            "Riesgo": "Medio",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 33,
-            "Nombres": "Valeria",
-            "Apellido": "Castillo Ruiz",
-            "Direccion": "Avenida 34 #56-78",
-            "Acudiente": "Jorge Castillo",
-            "Telefono": "3109876544",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Bajo"
-=======
-            "Riesgo": "Bajo",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": 34,
-            "Nombres": "Felipe",
-            "Apellido": "Lopez Gomez",
-            "Direccion": "Calle 78 #45-12",
-            "Acudiente": "Ana Gomez",
-            "Telefono": "3191234567",
-            "Estado": "Reprobado",
-<<<<<<< HEAD
-            "Riesgo": "Alto"
-=======
+            "Estado": "Inscrito",
             "Riesgo": "Alto",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
+            "Ruta": "Ruta Python",
+            "Nota Teorica": "",
+            "Nota Practica": ""
         },
         {
-            "id": 35,
-            "Nombres": "Diana",
-            "Apellido": "Rios Fernandez",
-            "Direccion": "Carrera 34 #56-23",
-            "Acudiente": "Martha Fernandez",
-            "Telefono": "3227654321",
-            "Estado": "Aprobado",
-<<<<<<< HEAD
-            "Riesgo": "Medio"
-=======
-            "Riesgo": "Medio",
-            "Ruta": "Ruta .NET"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": "50",
-            "nombre": "Leonard",
-            "apellido": "Acevedo ",
-            "direccion": "Calle 84 ",
-            "telefonos": "3123702080",
-            "estado": "Inscrito",
-<<<<<<< HEAD
-            "riesgo": "Bajo"
-=======
-            "riesgo": "Bajo",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": "asd",
-            "nombre": "asd",
-            "apellido": "asd",
-            "direccion": "asd",
-            "telefonos": "asd",
-            "estado": "aasd",
-<<<<<<< HEAD
-            "riesgo": "asd"
-=======
-            "riesgo": "asd",
-            "Ruta": "Ruta Java"
->>>>>>> 0e4af4b (Programa funcional)
-        },
-        {
-            "id": "ds",
-            "nombre": "sd",
-            "apellido": "sd",
-            "direccion": "sd",
-            "telefonos": "sd",
-            "estado": "sd",
-<<<<<<< HEAD
-            "riesgo": "sd"
-=======
-            "riesgo": "sd",
-            "Ruta": "Ruta Java"
-        },
-        {
-            "id": "54",
-            "nombre": "54534",
-            "apellido": "54541",
-            "direccion": "45453",
-            "telefonos": "43",
-            "estado": "1453",
-            "riesgo": "5454",
-            "Ruta": "Ruta .NET"
-        },
-        {
-            "id": "ldfsgj",
-            "nombre": "akldfsh",
-            "apellido": "saldfh",
-            "direccion": "sdafkljh",
-            "telefonos": "sadflkjh",
-            "estado": "sadflkjh",
-            "riesgo": "sadlfkj",
-            "Ruta": "Ruta .NET"
-        },
-        {
-            "id": "Leonardo",
-            "Nombre": "Acevedo",
-            "Apellido": "sadfkljsald",
-            "Direccion": "asdfkjh",
-            "Telefonos": "sadfjh",
-            "Estado": "sdfjh",
-            "Riesgo": "adsfjh"
-        },
-        {
-            "id": "1",
-            "Nombre": "Andres",
-            "Apellido": "Reyes",
-            "Direccion": "Calle 200 #25-54",
-            "Telefonos": "311548475 ",
-            "Estado": "Aprobado",
+            "id": "30",
+            "Nombre": "Leonardo",
+            "Apellido": "Acevedo",
+            "Direccion": "Calle 84 #57-29",
+            "Telefonos": "3123702080",
+            "Estado": "Cursando",
             "Riesgo": "Bajo"
-        },
-        {
-            "id": "dgfdfg",
-            "Nombre": "ghgf",
-            "Apellido": "hgfhgf",
-            "Direccion": "hfhgf",
-            "Telefonos": "hghgfgh",
-            "Estado": "ghfhgf",
-            "Riesgo": "hgfhgf"
->>>>>>> 0e4af4b (Programa funcional)
         }
     ]
 }
